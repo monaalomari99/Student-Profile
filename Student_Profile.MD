@@ -10,10 +10,13 @@ I would like to understand and learn artificial intelligence and algorithmic tra
 Student mini-CV:
 Degrees Completed:
 Bachelor of Science from the faculty of Computing & 
-Information Technology in Information Technology
+Information Technology in Information Technology.
+
 Top 3 Technical skills:
 Python, java, Excel.
+
 Top 3 Personal strengths:
 Professional, reliable, hard worker.
+
 Top 3 Interests in Fintech:
 Algorthmic Trading, Blockchain, Smart Contracts.
