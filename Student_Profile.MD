@@ -2,8 +2,9 @@ October, 7rd, 2021
 
  Mona Ahmed AL-Omari
 
-Student Career Goal Statement
-    In the next few months, I would like to proficient about every things in the financial technology.
+Student Career Goal Statement:
+
+In the next few months, I would like to proficient about every things in the financial technology.
 I would like to be proficient in blockchain programing with the Ethereum stack and smart contracts.
 I would like to understand and learn artificial intelligence and algorithmic trading applications in fintech. In the coming years, I would like to be able to write my own trading algorithm.
 
